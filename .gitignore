@@ -1,0 +1,4 @@
+# remove node modules
+node_modules
+# lock files
+*.lock
